@@ -21,10 +21,10 @@
 
 		<li><a href="site.html">Home</a></li>
 		<li><a href="#">CV</a></li>
-		<li><a href="#">Resarch</a></li>
-		<li><a href="#">Publications</a></li>
+		<li><a href="recherche.html">Resarch</a></li>
+		<li><a href="publications.html">Publications</a></li>
 		<li><a href="#"><strong>Teaching</strong></a></li>
-		<li><a href="#"> Activities</a></li>
+		<li><a href="activites.html"> Activities</a></li>
 	</ul>
 </nav>
 
@@ -35,15 +35,21 @@
 	<ul>
 		<li> Years 2013-2014 and 2014-2015 (PhD assistant) :
 		<ul>
-			<li> Informatique: First Year Bachelor, Université Lille 1, France (2 X 48h)
-			<li> Unix tutorial: Second Year Bachelor, Université Lille 1, France (2 X 6h)
-			<li> 
-		</ul>
+			<li> Informatique: First Year Bachelor, Université Lille 1, France (2 X 48h)</li>
+
+			<li> Unix tutorial: Second Year Bachelor, Université Lille 1, France (2 X 6h)</li>
+
+			<li> Monitoring internships: Third Year Bachelor, Université Lille 1, France (2 X 4h)</li>
+
+		</ul></li>
+
 
 		<li> Year 2012-2013 (Temporary teacher) :
 		<ul>
-			<li> Java programming pratical classes: First Year Bachelor, IUT A Lille, France (2 X 24h)
-		</ul>
+			<li> Java programming pratical classes: First Year Bachelor, IUT A Lille, France (2 X 24h)</li>
+
+                </ul></li>
+
 
 
 	</ul>
