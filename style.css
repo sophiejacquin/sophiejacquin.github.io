@@ -1,0 +1,103 @@
+body
+{
+    background: url('fond_jaune.png');
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    color: #181818;
+    position: relative;
+}
+#bloc_page
+{
+    width: 950px;
+    margin: auto;
+}
+header
+
+{
+
+    background: url('separateur.png') repeat-x bottom;
+
+}
+
+section h1,  nav a
+{
+
+    font-family: Dayrom, serif;
+    font-weight: normal;
+    /*text-transform: uppercase;*/
+}
+nav,section,#image, #AGauche
+{
+ display: inline-block;
+    vertical-align: top;
+
+}
+#AGauche
+{
+margin-left: 40px
+}
+section
+{
+width: 650px
+
+}
+#image
+{
+
+width: 275px
+
+} 
+#titre
+{
+margin-bottom: 70px
+}
+#adress
+{
+margin-top: 70px
+}
+h2
+{
+font-size: 1.3em;
+color: #760001;
+padding-bottom: 3px;
+
+}
+footer
+
+{
+
+    background:  url('separateur.png') repeat-x top, url('ombre.png') repeat-x top;
+
+    padding-top: 25px;
+	margin-top: 70px;
+  
+}
+/*.imageflottante
+
+{
+
+    float: left;
+
+}*/
+nav {
+width: 250px;
+
+}
+nav a
+{
+    font-size: 1.3em;
+    color: #181818;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+
+nav a:hover
+{
+    color: #760001;
+    border-bottom: 3px solid #760001;
+}
+
+
+/*.page1
+{
+	background-color : rgba(0, 0, 255, 0.1);/*#DDEEFF;
+}*/

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <meta charset="utf-8" />
+	<link rel="stylesheet" href="style.css" />
+        <title>Sophie Jacquin </title>
+
+    </head>
+
+    <body>
+<div id="bloc_page">
+<header>
+<h1>Sophie JACQUIN</h1>
+</header>
+
+<nav>
+	<ul>
+
+		<li><a href="site.html">Home</a></li>
+		<li><a href="#">CV</a></li>
+		<li><a href="#">Resarch</a></li>
+		<li><a href="#">Publications</a></li>
+		<li><a href="#"><strong>Teaching</strong></a></li>
+		<li><a href="#"> Activities</a></li>
+	</ul>
+</nav>
+
+<section>
+
+<h2>Teaching</h2>
+
+	<ul>
+		<li> Years 2013-2014 and 2014-2015 (PhD assistant) :
+		<ul>
+			<li> Informatique: First Year Bachelor, Université Lille 1, France (2 X 48h)
+			<li> Unix tutorial: Second Year Bachelor, Université Lille 1, France (2 X 6h)
+			<li> 
+		</ul>
+
+		<li> Year 2012-2013 (Temporary teacher) :
+		<ul>
+			<li> Java programming pratical classes: First Year Bachelor, IUT A Lille, France (2 X 24h)
+		</ul>
+
+
+	</ul>
+
+</section>
+<footer>
+ <img src="inria.png" alt="Logo Inria" id="logoInria" />
+<img src="Lille1.jpg" alt="Logo Lille 1" id="logoLille1" />
+<img src="logo-cristal.png" alt="Logo Cristal" id="logoCristal" />
+</footer>
+</div>
+ </body>
+
+</html>
