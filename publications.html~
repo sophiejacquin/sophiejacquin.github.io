@@ -19,8 +19,8 @@
 <nav>
 	<ul>
 
-		<li><a href="index.html">Home</a></li>
-		<li><a href="cv.html">CV</a></li>
+		<li><a href="site.html">Home</a></li>
+		<li><a href="#">CV</a></li>
 		<li><a href="recherche.html">Research</a></li>
 		<li><a href="#"><strong>Publications</strong></a></li>
 		<li><a href="cours.html">Teaching</a></li>
@@ -33,7 +33,7 @@
 <h2>Publications</h2>
 
 	<ul>
-		<li> International Refereed Conferences:
+		<li> International Conferences:
             
 			<ul>
                 <li> <strong>A multi-objective dynamic programming based metaheuristic</strong><br />
@@ -42,16 +42,20 @@
 
                     <li> <strong>A Comparison of Decoding Strategies for the 0/1 Multi-objective Unit Commitment Problem</strong><br />
                         Sophie JACQUIN, Lucien MOUSSIN, Igor MACHADO,  Laetitia JOURDAN, El-Ghazali TALBI <br />
-                        8th International Conference on Evolutionary Multi-Criterion Optimization (<strong>EMO 2015</strong>, LNCS, pp. 381-395). March 2015. Gumaraes, Portugal. </li>
+                        8th International Conference on Evolutionary Multi-Criterion Optimization (<strong>EMO 2015</strong>). March 2015. Gumaraes, Portugal.</li>
 
                         <li> <strong>DYNAMOP Applied to the Unit Commitment Problem</strong><br />
                             Sophie JACQUIN, Laetitia JOURDAN, El-Ghazali TALBI <br />
-                            9th Learning and Intelligent OptimizatioN Conference (<strong>LION 9</strong>,  LNCS, 2015). January 2015. Lille, France.</li>
-
+                            9th Learning and Intelligent OptimizatioN Conference (<strong>LION 9</strong>). January 2015. Lille, France.</li>
+                    <li> <strong>Dynamic Programming Based Metaheuristic for the Unit Commitment Problem</strong><br />
+                    Sophie JACQUIN, Laetitia JOURDAN, El-Ghazali TALBI <br />
+                    The 5th International Conference On Metaheuristics And Nature Inspired Computing (<strong>META'14</strong>). October 2014. Marrakech, Morocco.</li>
                 <li> <strong>Dynamic Programming Based Metaheuristic for Energy Planning Problems</strong><br />
                     Sophie JACQUIN, Laetitia JOURDAN, El-Ghazali TALBI <br />
-                    European Conference on the Applications of Evolutionary Computation (<strong>evo* 2014</strong>,  LNCS 8602, pp. 165-176). April 2014. Granada, Spain.</li>
-                
+                    European Conference on the Applications of Evolutionary Computation (<strong>evo* 2014</strong>). April 2014. Granada, Spain.</li>
+                <li> <strong>Approximating Dynamic Programing using metaheuristic for an energy problem.</strong><br />
+                    Sophie JACQUIN, Laetitia JOURDAN, El-Ghazali TALBI <br />
+                    European Conference on the Applications of Evolutionary Computation (<strong>EURO XXVI</strong>). July 2013. Rome, Italy.</li>
                 
                 
 
@@ -59,15 +63,6 @@
                     
                     
         </ul>
-            <li> International Conferences:
-                <ul>
-                    <li> <strong>Dynamic Programming Based Metaheuristic for the Unit Commitment Problem</strong><br />
-                        Sophie JACQUIN, Laetitia JOURDAN, El-Ghazali TALBI <br />
-                        The 5th International Conference On Metaheuristics And Nature Inspired Computing (<strong>META'14</strong>). October 2014. Marrakech, Morocco.</li>
-                    <li> <strong>Approximating Dynamic Programing using metaheuristic for an energy problem.</strong><br />
-                        Sophie JACQUIN, Laetitia JOURDAN, El-Ghazali TALBI <br />
-                        European Conference on the Applications of Evolutionary Computation (<strong>EURO XXVI</strong>). July 2013. Rome, Italy.</li>
-                </ul>
 
 
 	</ul>
