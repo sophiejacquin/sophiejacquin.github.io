@@ -19,9 +19,9 @@
 <nav>
 	<ul>
 
-		<li><a href="site.html">Home</a></li>
-		<li><a href="#">CV</a></li>
-		<li><a href="recherche.html">Resarch</a></li>
+		<li><a href="index.html">Home</a></li>
+		<li><a href="cv.html">CV</a></li>
+		<li><a href="recherche.html">Research</a></li>
 		<li><a href="publications.html">Publications</a></li>
 		<li><a href="cours.html">Teaching</a></li>
 		<li><a href="#"> <strong>Activities</strong></a></li>
@@ -35,7 +35,9 @@
 	<ul>
 		<li> Organizing comittee
             <ul>
+		<li> MIC 2015: The Metaheuristics International Conference (Agadir, Morocco).</li>
                 <li> META'14: The 5th International Conference on Metaheuristics and Nature Inspired Computing, META’2014 (Marrakech, Morocco).</li>
+		
 
             </ul>
             <li> Investment in university life
