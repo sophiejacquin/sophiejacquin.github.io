@@ -33,9 +33,20 @@
 <h2>Publications</h2>
 
 	<ul>
+		<li> International Refereed Journals:
+		<ul>
+			<li><strong>  A Multi-objective Dynamic Programming Based Metaheuristic to Solve a Bi-objective Unit Commitment Problem using a Multi-objective Decoder</strong><br />Sophie JACQUIN, Laetitia JOURDAN, El-Ghazali TALBI <br />International Journal of Metaheuristics, vol: 5(1): 3-30 (2016) </li>
+		</ul>
 		<li> International Refereed Conferences:
             
 			<ul>
+		 <li> <strong>Decoder-based Evolutionary Algorithm for bi-objective Just-in-Time Single-Machine Job-shop </strong><br />
+                     Sophie JACQUIN, Emilie ALLART, Fanny DUFOSSE and Laetitia JOURDAN <br />
+                    The 2016 IEEE Symposium Series on Computational Intelligence (<strong>IEEE SSCI 2016</strong>). December 2016. Athens, Greece. </li> 
+                 <li> <strong>Analysis and Comparison of Multi-objective
+Evolutionary Approaches on the 1/0 Multi-objective Unit Commitment Problem </strong><br />
+                    Saul ZAPOTECAS-MARTINEZ,  Sophie JACQUIN, Hernan E. Aguirre and Kiyoshi Tanaka <br />
+                    The 2016 IEEE Congress on Evolutionary Computation (<strong>IEEE CEC 2016</strong>). July 2016. Vancouvert, Canada. </li> 
                 <li> <strong>A multi-objective dynamic programming based metaheuristic</strong><br />
                     Sophie JACQUIN, Laetitia JOURDAN, El-Ghazali TALBI <br />
                     The XI metaheuristic International Conference (<strong>MIC 2015</strong>). June 2015. Agadir, Morocco.</li>
