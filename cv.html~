@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <meta charset="utf-8" />
+	<link rel="stylesheet" href="style.css" />
+        <title>Sophie Jacquin </title>
+
+    </head>
+
+    <body>
+<div id="bloc_page">
+<header>
+<h1>Sophie JACQUIN</h1>
+</header>
+
+<nav>
+	<ul>
+
+		<li><a href="index.html">Home</a></li>
+		<li><a href="#"><strong>CV</strong></a></li>
+		<li><a href="recherche.html">Research</a></li>
+		<li><a href="publications.html">Publications</a></li>
+		<li><a href="cours.html">Teaching</a></li>
+		<li><a href="activites.html"> Activities</a></li>
+	</ul>
+</nav>
+
+<section>
+
+<h2>Curriculum Vitae</h2>
+
+    <ul>
+        <li><a href="ModernCV_ntrp_Template.pdf">French CV</a> </li>
+    </ul>
+     
+
+</section>
+<footer>
+ <img src="inria.png" alt="Logo Inria" id="logoInria" />
+<img src="Lille1.jpg" alt="Logo Lille 1" id="logoLille1" />
+<img src="logo-cristal.png" alt="Logo Cristal" id="logoCristal" />
+</footer>
+</div>
+ </body>
+
+</html>

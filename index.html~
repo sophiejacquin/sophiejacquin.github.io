@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <meta charset="utf-8" />
+	<link rel="stylesheet" href="style.css" />
+        <title>Sophie Jacquin </title>
+
+    </head>
+
+    <body>
+<div id="bloc_page">
+<header>
+<h1>Sophie JACQUIN</h1>
+</header>
+
+<nav>
+	<ul>
+
+		<li><a href="#"><strong>Home</strong></a></li>
+		<li><a href="cv.html">CV</a></li>
+		<li><a href="recherche.html">Research</a></li>
+		<li><a href="publications.html">Publications</a></li>
+		<li><a href="cours.html">Teaching</a></li>
+		<li><a href="activites.html"> Activities</a></li>
+	</ul>
+</nav>
+
+<section>
+<div id="image">
+<img src="moi.jpg" alt="Sophie JACQUIN" id="moi" class="imageflottante" />
+</div>
+<div id="AGauche">
+<h2> Home</h2>
+<div id="titre">
+
+<strong>Postdoc and lecturer in computer science</strong> <br /> 
+Université Lille 1, CRIStAL <br /> 
+Inria Lille-Nord Europe
+</div>
+
+<div id="coordonnes">
+<strong>E-mail:</strong> <a href="mailto:sophie.jacquin@inria.fr">sophie.jacquin@inria.fr</a><br />
+<strong>Phone:</strong> +33 (0)6 13 98 08 27<br /> 
+</div>
+</div>
+
+<div id="adress">
+<strong>Adress:</strong><br/>
+Parc scientifique de la Haute Borne <br/>
+ 40, avenue Halley - Bât B - Park Plaza <br/>
+ 59650 Villeneuve d'Ascq - France
+</div>
+
+
+</section>
+<footer>
+ <img src="inria.png" alt="Logo Inria" id="logoInria" />
+<img src="Lille1.jpg" alt="Logo Lille 1" id="logoLille1" />
+<img src="logo-cristal.png" alt="Logo Cristal" id="logoCristal" />
+</footer>
+</div>
+ </body>
+
+</html>
